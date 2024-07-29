@@ -29,7 +29,7 @@ status-website:
   #faviconSvg: https://example.com/logo.svg
   navbar:
     - title: Status
-      href: /
+      href: /status
   scripts:
     - src: https://plausible.geulah.org.il/js/script.js
 
