@@ -31,7 +31,7 @@ status-website:
     - title: Status
       href: /
   scripts:
-    - src: http://plausible.geulah.org.il/js/script.js
+    - src: https://plausible.geulah.org.il/js/script.js
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
