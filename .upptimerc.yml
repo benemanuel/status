@@ -27,9 +27,9 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Systems Status
   introTitle: "Status of sites managed by $OWNER"
-  introMessage: "**Upptime** is the open-source uptime monitor powered entirely by GitHub."
+  #introMessage: "**Upptime** is the open-source uptime monitor powered entirely by GitHub."
   #favicon: https://example.com/favicon.png
   #faviconSvg: https://example.com/logo.svg
   navbar:
