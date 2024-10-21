@@ -4,9 +4,9 @@
     "url": "https://geulah.org.il/",
     "icon": "https://icons.duckduckgo.com/ip3/geulah.org.il.ico",
     "slug": "geulah",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 466,
     "timeMonth": 455,
     "timeYear": 477,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-21": 0
+    }
   },
   {
     "name": "HaTaNaCh",
     "url": "https://hatanach.geulah.org.il/",
     "icon": "https://icons.duckduckgo.com/ip3/hatanach.geulah.org.il.ico",
     "slug": "ha-ta-na-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 531,
     "timeMonth": 584,
     "timeYear": 650,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-21": 0
+    }
   },
   {
     "name": "ShirHaShirim",
@@ -58,7 +62,7 @@
     "url": "https://hatanach.geulah.org.il/verse/?cit=Zeph3:8&text",
     "icon": "https://icons.duckduckgo.com/ip3/hatanach.geulah.org.il.ico",
     "slug": "verse-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +73,9 @@
     "timeWeek": 335,
     "timeMonth": 336,
     "timeYear": 321,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-21": 0
+    }
   },
   {
     "name": "blog",
