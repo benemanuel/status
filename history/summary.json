@@ -82,19 +82,19 @@
     "url": "https://benemanuel.geulah.org.il/feed.xml",
     "icon": "https://icons.duckduckgo.com/ip3/benemanuel.geulah.org.il.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.69%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "98.65%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 906,
     "timeDay": 952,
     "timeWeek": 904,
     "timeMonth": 898,
     "timeYear": 906,
     "dailyMinutesDown": {
-      "2024-10-24": 19
+      "2024-10-24": 20
     }
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://plausible.geulah.org.il/",
     "icon": "https://icons.duckduckgo.com/ip3/plausible.geulah.org.il.ico",
     "slug": "plausible",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.73%",
+    "uptimeDay": "98.72%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
