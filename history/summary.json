@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
-    "time": 474,
-    "timeDay": 441,
-    "timeWeek": 469,
-    "timeMonth": 467,
-    "timeYear": 474,
+    "time": 473,
+    "timeDay": 418,
+    "timeWeek": 467,
+    "timeMonth": 462,
+    "timeYear": 473,
     "dailyMinutesDown": {
       "2024-10-21": 38
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 643,
-    "timeDay": 419,
-    "timeWeek": 593,
-    "timeMonth": 601,
+    "timeDay": 554,
+    "timeWeek": 600,
+    "timeMonth": 596,
     "timeYear": 643,
     "dailyMinutesDown": {
       "2024-10-21": 38
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 95,
-    "timeWeek": 187,
-    "timeMonth": 196,
+    "timeDay": 210,
+    "timeWeek": 186,
+    "timeMonth": 194,
     "timeYear": 188,
     "dailyMinutesDown": {}
   },
@@ -69,9 +69,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 331,
-    "timeDay": 313,
-    "timeWeek": 387,
-    "timeMonth": 371,
+    "timeDay": 308,
+    "timeWeek": 384,
+    "timeMonth": 369,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2024-10-21": 38
@@ -88,11 +88,11 @@
     "uptimeWeek": "98.33%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.87%",
-    "time": 908,
-    "timeDay": 695,
-    "timeWeek": 925,
-    "timeMonth": 936,
-    "timeYear": 908,
+    "time": 905,
+    "timeDay": 646,
+    "timeWeek": 909,
+    "timeMonth": 920,
+    "timeYear": 905,
     "dailyMinutesDown": {
       "2024-10-25": 72,
       "2024-10-24": 97
@@ -109,11 +109,11 @@
     "uptimeWeek": "98.34%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.87%",
-    "time": 578,
-    "timeDay": 442,
-    "timeWeek": 514,
-    "timeMonth": 547,
-    "timeYear": 578,
+    "time": 577,
+    "timeDay": 543,
+    "timeWeek": 529,
+    "timeMonth": 544,
+    "timeYear": 577,
     "dailyMinutesDown": {
       "2024-10-25": 72,
       "2024-10-24": 95
