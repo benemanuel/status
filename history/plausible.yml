@@ -1,7 +1,7 @@
 url: https://plausible.geulah.org.il/
-status: up
-code: 200
-responseTime: 549
-lastUpdated: 2024-11-10T23:04:42.866Z
+status: down
+code: 502
+responseTime: 435
+lastUpdated: 2024-11-11T17:30:31.048Z
 startTime: 2024-07-29T09:06:48.232Z
 generator: Upptime <https://github.com/upptime/upptime>
