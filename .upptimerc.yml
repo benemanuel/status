@@ -7,6 +7,12 @@ sites:
     url: https://geulah.org.il/
   - name: HaTaNaCh
     url: https://hatanach.geulah.org.il/
+  - name: TaNaCh
+    url: https://tanach.geulah.org.il/
+  - name: node
+    url: http://nodejs.geulah.org.il:3000/
+  - name: mysql
+    url: http://mysql.geulah.org.il/
   - name: ShirHaShirim
     url: https://shirhashirim.org.il/
   - name: Verse test
