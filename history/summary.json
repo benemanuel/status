@@ -44,19 +44,19 @@
     "url": "https://tanach.geulah.org.il/",
     "icon": "https://icons.duckduckgo.com/ip3/tanach.geulah.org.il.ico",
     "slug": "ta-na-ch",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 773,
-    "timeDay": 856,
-    "timeWeek": 778,
-    "timeMonth": 782,
-    "timeYear": 773,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 770,
+    "timeDay": 748,
+    "timeWeek": 760,
+    "timeMonth": 778,
+    "timeYear": 770,
     "dailyMinutesDown": {
-      "2024-12-26": 0
+      "2024-12-26": 13
     }
   },
   {
