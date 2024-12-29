@@ -62,19 +62,19 @@
     "url": "http://nodejs.geulah.org.il:3000/",
     "icon": "https://icons.duckduckgo.com/ip3/nodejs.geulah.org.il.ico",
     "slug": "node",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 283,
-    "timeWeek": 370,
-    "timeMonth": 411,
-    "timeYear": 412,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.93%",
+    "time": 409,
+    "timeDay": 285,
+    "timeWeek": 359,
+    "timeMonth": 407,
+    "timeYear": 409,
     "dailyMinutesDown": {
-      "2024-12-29": 0
+      "2024-12-29": 44
     }
   },
   {
