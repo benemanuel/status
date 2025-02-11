@@ -44,27 +44,29 @@
     "url": "https://tanach.geulah.org.il/",
     "icon": "https://icons.duckduckgo.com/ip3/tanach.geulah.org.il.ico",
     "slug": "ta-na-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 737,
-    "timeDay": 839,
-    "timeWeek": 737,
-    "timeMonth": 710,
-    "timeYear": 737,
-    "dailyMinutesDown": {}
+    "time": 734,
+    "timeDay": 665,
+    "timeWeek": 706,
+    "timeMonth": 703,
+    "timeYear": 734,
+    "dailyMinutesDown": {
+      "2025-02-11": 0
+    }
   },
   {
     "name": "node",
     "url": "http://nodejs.geulah.org.il:3000/",
     "icon": "https://icons.duckduckgo.com/ip3/nodejs.geulah.org.il.ico",
     "slug": "node",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -74,6 +76,7 @@
     "timeMonth": 385,
     "timeYear": 394,
     "dailyMinutesDown": {
+      "2025-02-11": 0,
       "2024-12-29": 44
     }
   },
