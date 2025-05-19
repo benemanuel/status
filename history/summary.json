@@ -4,9 +4,9 @@
     "url": "https://geulah.org.il/",
     "icon": "https://icons.duckduckgo.com/ip3/geulah.org.il.ico",
     "slug": "geulah",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 518,
     "timeYear": 493,
     "dailyMinutesDown": {
+      "2025-05-19": 0,
       "2024-10-21": 38
     }
   },
@@ -89,18 +90,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mysql.geulah.org.il.ico",
     "slug": "mysql",
     "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "51.07%",
-    "uptimeWeek": "93.01%",
-    "uptimeMonth": "98.39%",
-    "uptimeYear": "99.73%",
+    "uptime": "99.63%",
+    "uptimeDay": "31.74%",
+    "uptimeWeek": "90.25%",
+    "uptimeMonth": "97.76%",
+    "uptimeYear": "99.63%",
     "time": 410,
     "timeDay": 826,
     "timeWeek": 642,
     "timeMonth": 510,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2025-05-19": 61,
+      "2025-05-19": 340,
       "2025-05-18": 643
     }
   },
