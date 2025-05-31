@@ -1,7 +1,7 @@
 url: http://mysql.geulah.org.il/
-status: up
-code: 200
-responseTime: 793
-lastUpdated: 2025-05-30T23:08:07.827Z
+status: down
+code: 502
+responseTime: 1035
+lastUpdated: 2025-05-31T15:54:49.905Z
 startTime: 2024-11-16T19:02:54.922Z
 generator: Upptime <https://github.com/upptime/upptime>
