@@ -21,6 +21,8 @@ sites:
     url: https://benemanuel.geulah.org.il/feed.xml
   - name: plausible
     url: https://plausible.geulah.org.il/
+  - name: oasis
+    url: https://benemanuel.space/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
