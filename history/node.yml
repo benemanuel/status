@@ -1,7 +1,7 @@
 url: http://nodejs.geulah.org.il:3000/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-06T23:07:50.291Z
+status: up
+code: 200
+responseTime: 397
+lastUpdated: 2025-07-07T09:53:03.771Z
 startTime: 2024-11-16T19:02:53.909Z
 generator: Upptime <https://github.com/upptime/upptime>
