@@ -9,8 +9,8 @@ sites:
     url: https://hatanach.geulah.org.il/
   - name: TaNaCh
     url: https://tanach.geulah.org.il/
-  - name: node
-    url: http://nodejs.geulah.org.il:3000/
+  - name: Teamim
+    url: https://teamim.geulah.org.il/
   - name: mysql
     url: http://mysql.geulah.org.il/
   - name: ShirHaShirim
@@ -23,6 +23,8 @@ sites:
     url: https://plausible.geulah.org.il/
   - name: oasis
     url: https://benemanuel.space/
+  - name: test
+    url: https://test.geulah.org.il/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
