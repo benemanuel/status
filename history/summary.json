@@ -81,9 +81,9 @@
     "url": "https://teamim.geulah.org.il/",
     "icon": "https://icons.duckduckgo.com/ip3/teamim.geulah.org.il.ico",
     "slug": "teamim",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,7 +92,9 @@
     "timeWeek": 699,
     "timeMonth": 699,
     "timeYear": 699,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-12": 0
+    }
   },
   {
     "name": "mysql",
@@ -242,13 +244,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.geulah.org.il.ico",
     "slug": "test",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
     "time": 1229,
-    "timeDay": 1465,
+    "timeDay": 1391,
     "timeWeek": 1229,
     "timeMonth": 1229,
     "timeYear": 1229,
