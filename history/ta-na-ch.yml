@@ -1,7 +1,7 @@
 url: https://tanach.geulah.org.il/
-status: up
-code: 200
-responseTime: 649
-lastUpdated: 2026-01-27T23:09:45.560Z
+status: down
+code: 502
+responseTime: 789
+lastUpdated: 2026-01-28T19:15:48.181Z
 startTime: 2024-11-16T19:02:52.715Z
 generator: Upptime <https://github.com/upptime/upptime>
