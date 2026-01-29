@@ -11,12 +11,12 @@ sites:
     url: https://tanach.geulah.org.il/
   - name: Teamim
     url: https://teamim.geulah.org.il/
-  - name: mysql
-    url: http://mysql.geulah.org.il/
+  - name: HaTaNaCh
+    url: https://hatanach.geulah.org.il/
   - name: ShirHaShirim
     url: https://shirhashirim.org.il/
   - name: Verse test
-    url: https://hatanach.geulah.org.il/verse/?cit=Zeph3:8&text
+    url: https://tanach.geulah.org.il/verse/?cit=Zeph3:8&text
   - name: blog
     url: https://benemanuel.geulah.org.il/feed.xml
   - name: plausible
@@ -25,8 +25,7 @@ sites:
     url: https://benemanuel.space/
   - name: test
     url: https://test.geulah.org.il/
-  - name: test
-    url: https://noforreal.geulah.org.il/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
