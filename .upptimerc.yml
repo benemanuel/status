@@ -25,6 +25,8 @@ sites:
     url: https://benemanuel.space/
   - name: test
     url: https://test.geulah.org.il/
+  - name: test
+    url: https://noforreal.geulah.org.il/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
