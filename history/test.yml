@@ -1,7 +1,7 @@
 url: https://test.geulah.org.il/
-status: up
-code: 200
-responseTime: 1070
-lastUpdated: 2026-03-23T07:14:48.823Z
+status: down
+code: 502
+responseTime: 701
+lastUpdated: 2026-03-23T11:55:07.305Z
 startTime: 2026-01-07T12:08:44.590Z
 generator: Upptime <https://github.com/upptime/upptime>
