@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 802,
-    "timeDay": 1024,
-    "timeWeek": 931,
-    "timeMonth": 872,
+    "timeDay": 701,
+    "timeWeek": 877,
+    "timeMonth": 875,
     "timeYear": 909,
     "dailyMinutesDown": {
       "2025-10-20": 17,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 557,
-    "timeDay": 469,
-    "timeWeek": 464,
-    "timeMonth": 350,
-    "timeYear": 495,
+    "time": 556,
+    "timeDay": 310,
+    "timeWeek": 461,
+    "timeMonth": 351,
+    "timeYear": 493,
     "dailyMinutesDown": {
       "2026-03-23": 164,
       "2026-02-14": 29,
@@ -45,8 +45,7 @@
       "2025-09-23": 297,
       "2025-09-10": 16,
       "2025-06-26": 29,
-      "2025-06-25": 68,
-      "2025-05-18": 100
+      "2025-06-25": 68
     }
   },
   {
@@ -60,11 +59,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 685,
-    "timeDay": 511,
-    "timeWeek": 573,
-    "timeMonth": 619,
-    "timeYear": 655,
+    "time": 684,
+    "timeDay": 431,
+    "timeWeek": 539,
+    "timeMonth": 616,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2026-03-23": 79,
       "2026-01-29": 406,
@@ -75,8 +74,7 @@
       "2025-09-23": 297,
       "2025-09-10": 15,
       "2025-06-26": 28,
-      "2025-06-25": 91,
-      "2025-05-18": 20
+      "2025-06-25": 91
     }
   },
   {
@@ -85,15 +83,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/teamim.geulah.org.il.ico",
     "slug": "teamim",
     "status": "up",
-    "uptime": "97.32%",
+    "uptime": "97.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.32%",
+    "uptimeYear": "97.34%",
     "time": 758,
-    "timeDay": 911,
-    "timeWeek": 924,
-    "timeMonth": 811,
+    "timeDay": 798,
+    "timeWeek": 928,
+    "timeMonth": 815,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2026-03-16": 71,
@@ -116,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 557,
-    "timeDay": 469,
-    "timeWeek": 464,
-    "timeMonth": 350,
-    "timeYear": 495,
+    "time": 556,
+    "timeDay": 310,
+    "timeWeek": 461,
+    "timeMonth": 351,
+    "timeYear": 493,
     "dailyMinutesDown": {
       "2026-03-23": 164,
       "2026-02-14": 29,
@@ -130,8 +128,7 @@
       "2025-09-23": 297,
       "2025-09-10": 16,
       "2025-06-26": 29,
-      "2025-06-25": 68,
-      "2025-05-18": 100
+      "2025-06-25": 68
     }
   },
   {
@@ -146,10 +143,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 90,
-    "timeWeek": 210,
-    "timeMonth": 218,
-    "timeYear": 196,
+    "timeDay": 144,
+    "timeWeek": 196,
+    "timeMonth": 215,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   },
   {
@@ -164,9 +161,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
     "time": 745,
-    "timeDay": 867,
-    "timeWeek": 616,
-    "timeMonth": 425,
+    "timeDay": 401,
+    "timeWeek": 612,
+    "timeMonth": 430,
     "timeYear": 801,
     "dailyMinutesDown": {
       "2026-03-23": 80,
@@ -188,8 +185,7 @@
       "2025-06-11": 40,
       "2025-06-10": 20,
       "2025-06-08": 69,
-      "2025-06-04": 15,
-      "2025-05-18": 100
+      "2025-06-04": 15
     }
   },
   {
@@ -204,10 +200,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 982,
-    "timeDay": 1037,
-    "timeWeek": 1102,
-    "timeMonth": 1040,
-    "timeYear": 1018,
+    "timeDay": 1117,
+    "timeWeek": 1094,
+    "timeMonth": 1047,
+    "timeYear": 1019,
     "dailyMinutesDown": {
       "2026-03-17": 63,
       "2026-01-22": 52,
@@ -227,11 +223,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 685,
-    "timeDay": 703,
-    "timeWeek": 723,
-    "timeMonth": 733,
-    "timeYear": 731,
+    "time": 684,
+    "timeDay": 556,
+    "timeWeek": 718,
+    "timeMonth": 729,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2026-01-07": 37,
       "2025-10-20": 17
@@ -249,9 +245,9 @@
     "uptimeMonth": "98.02%",
     "uptimeYear": "99.70%",
     "time": 869,
-    "timeDay": 890,
-    "timeWeek": 877,
-    "timeMonth": 824,
+    "timeDay": 899,
+    "timeWeek": 904,
+    "timeMonth": 829,
     "timeYear": 869,
     "dailyMinutesDown": {
       "2026-05-05": 505,
@@ -266,16 +262,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.geulah.org.il.ico",
     "slug": "test",
     "status": "up",
-    "uptime": "95.91%",
+    "uptime": "95.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.34%",
-    "uptimeYear": "95.91%",
-    "time": 1762,
-    "timeDay": 2009,
-    "timeWeek": 1974,
-    "timeMonth": 2028,
-    "timeYear": 1762,
+    "uptimeYear": "95.94%",
+    "time": 1761,
+    "timeDay": 1727,
+    "timeWeek": 1973,
+    "timeMonth": 2019,
+    "timeYear": 1761,
     "dailyMinutesDown": {
       "2026-05-03": 503,
       "2026-05-02": 681,
