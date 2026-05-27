@@ -11,8 +11,6 @@ sites:
     url: https://tanach.geulah.org.il/
   - name: Teamim
     url: https://teamim.geulah.org.il/
-  - name: HaTaNaCh
-    url: https://hatanach.geulah.org.il/
   - name: ShirHaShirim
     url: https://shirhashirim.org.il/
   - name: Verse test
@@ -25,6 +23,14 @@ sites:
     url: https://benemanuel.space/
   - name: test
     url: https://test.geulah.org.il/
+#  - name: n8n Automation Engine
+#    url: https://n8n.geulah.org.il/ 
+#  - name: Pasuk Yomi
+#    url: https://pasuk-yomi.geulah.org.il/
+  - name: Who Are You Israel
+    url: https://whoareyouisrael.geulah.org.il/ 
+  - name: Sky
+    url: https://sky.geulah.org.il/ 
 
 
 status-website:
