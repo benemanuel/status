@@ -1,0 +1,100 @@
+{
+  "format": "recipe-box",
+  "version": 1,
+  "recipes": [
+    {
+      "id": "sample-shakshuka",
+      "title": "Shakshuka",
+      "description": "Eggs poached in a spiced tomato and pepper sauce — a weekend classic.",
+      "servings": "4",
+      "prepTime": "10 min",
+      "cookTime": "25 min",
+      "ingredients": [
+        "2 tbsp olive oil",
+        "1 onion, diced",
+        "1 red bell pepper, diced",
+        "3 cloves garlic, minced",
+        "1 tsp ground cumin",
+        "1 tsp sweet paprika",
+        "1 can (400 g) crushed tomatoes",
+        "4-6 eggs",
+        "Salt and pepper",
+        "Fresh parsley or cilantro, chopped"
+      ],
+      "steps": [
+        "Heat the olive oil in a wide pan and soften the onion and pepper, about 7 minutes.",
+        "Add the garlic, cumin and paprika and cook for 1 minute until fragrant.",
+        "Pour in the tomatoes, season, and simmer for 10 minutes until thickened.",
+        "Make wells in the sauce and crack an egg into each one.",
+        "Cover and cook 6-8 minutes until the whites are set but yolks are still soft.",
+        "Scatter with herbs and serve straight from the pan with bread."
+      ],
+      "tags": ["breakfast", "vegetarian", "eggs"],
+      "notes": "Add crumbled feta in the last few minutes for a richer version.",
+      "source": ""
+    },
+    {
+      "id": "sample-tahini-cookies",
+      "title": "Tahini Cookies",
+      "description": "Five-ingredient melt-in-the-mouth cookies, naturally dairy-free.",
+      "servings": "About 25 cookies",
+      "prepTime": "15 min",
+      "cookTime": "12 min",
+      "ingredients": [
+        "1 cup raw tahini",
+        "100 g soft butter or coconut oil",
+        "1/2 cup sugar",
+        "2 cups flour",
+        "1 tsp baking powder",
+        "Whole almonds, to top"
+      ],
+      "steps": [
+        "Heat the oven to 170°C (340°F).",
+        "Mix all ingredients into a smooth, slightly crumbly dough.",
+        "Roll into walnut-sized balls and place on a lined tray.",
+        "Press an almond into the top of each ball.",
+        "Bake 12 minutes — they should stay pale. Cool completely before moving."
+      ],
+      "tags": ["dessert", "baking", "parve"],
+      "notes": "",
+      "source": ""
+    },
+    {
+      "id": "sample-lentil-soup",
+      "title": "Red Lentil Soup",
+      "description": "A warming one-pot soup that comes together from pantry staples.",
+      "servings": "6",
+      "prepTime": "10 min",
+      "cookTime": "30 min",
+      "ingredients": [
+        "2 tbsp olive oil",
+        "1 onion, chopped",
+        "2 carrots, diced",
+        "3 cloves garlic, minced",
+        "1 tbsp tomato paste",
+        "1 tsp ground cumin",
+        "1 1/2 cups red lentils, rinsed",
+        "6 cups vegetable stock or water",
+        "Juice of half a lemon",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Sauté the onion and carrots in olive oil until soft, about 8 minutes.",
+        "Stir in the garlic, tomato paste and cumin and cook 1 minute.",
+        "Add the lentils and stock, bring to a boil, then simmer 25 minutes.",
+        "Blend partially for a creamy-but-chunky texture.",
+        "Finish with lemon juice, season, and serve."
+      ],
+      "tags": ["soup", "vegan", "weeknight"],
+      "notes": "Freezes well for up to 3 months.",
+      "source": ""
+    }
+  ],
+  "collections": [
+    {
+      "id": "sample-coll-weeknight",
+      "name": "Weeknight favorites",
+      "recipeIds": ["sample-shakshuka", "sample-lentil-soup"]
+    }
+  ]
+}

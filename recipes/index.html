@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Recipe Box — your cooking companion</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<aside id="sidebar">
+  <h1>🥘 Recipe Box</h1>
+  <nav>
+    <ul id="collection-list"></ul>
+    <button id="btn-new-collection" class="ghost">＋ New collection</button>
+  </nav>
+  <h2>Tags</h2>
+  <div id="tag-list"></div>
+  <footer>
+    <p>Everything is stored locally in your browser.<br>Use Export to back up your recipes.</p>
+  </footer>
+</aside>
+
+<main>
+  <header id="toolbar">
+    <h2 id="view-title">All recipes</h2>
+    <input id="search" type="search" placeholder="Search recipes, ingredients, tags…">
+    <span id="selection-info"></span>
+    <div class="toolbar-actions">
+      <button id="btn-add" class="primary">＋ Add recipe</button>
+      <button id="btn-import">⬆ Import</button>
+      <button id="btn-export-json">⬇ Export JSON</button>
+      <button id="btn-export-md">⬇ Export Markdown</button>
+      <button id="btn-select">Select</button>
+      <button id="btn-delete-collection" class="danger" hidden>Delete collection</button>
+    </div>
+  </header>
+  <section id="recipe-grid"></section>
+</main>
+
+<!-- Recipe detail -->
+<dialog id="detail-dialog">
+  <div id="detail-content"></div>
+  <div class="dialog-actions">
+    <button id="btn-cook" class="primary">▶ Cook mode</button>
+    <button id="btn-collect">🗂 Add to collection</button>
+    <button id="btn-edit">✎ Edit</button>
+    <button id="btn-delete" class="danger">Delete</button>
+    <button id="btn-close-detail">Close</button>
+  </div>
+</dialog>
+
+<!-- Recipe editor -->
+<dialog id="editor-dialog">
+  <form id="editor-form" method="dialog">
+    <h2 id="editor-title">New recipe</h2>
+    <input type="hidden" name="id">
+    <label>Title <input name="title" required placeholder="Shakshuka"></label>
+    <label>Description <textarea name="description" rows="2" placeholder="A short description"></textarea></label>
+    <div class="form-row">
+      <label>Servings <input name="servings" placeholder="4"></label>
+      <label>Prep time <input name="prepTime" placeholder="15 min"></label>
+      <label>Cook time <input name="cookTime" placeholder="25 min"></label>
+    </div>
+    <label>Image URL <input name="image" type="url" placeholder="https://…"></label>
+    <label>Ingredients <span class="hint">one per line</span>
+      <textarea name="ingredients" rows="6"></textarea></label>
+    <label>Steps <span class="hint">one per line</span>
+      <textarea name="steps" rows="6"></textarea></label>
+    <label>Tags <span class="hint">comma separated</span> <input name="tags" placeholder="breakfast, vegetarian"></label>
+    <label>Notes <textarea name="notes" rows="2"></textarea></label>
+    <label>Source URL <input name="source" placeholder="https://…"></label>
+    <div class="dialog-actions">
+      <button type="submit" class="primary">Save</button>
+      <button type="button" id="btn-cancel-edit">Cancel</button>
+    </div>
+  </form>
+</dialog>
+
+<!-- Bulk import -->
+<dialog id="import-dialog">
+  <h2>Import recipes in bulk</h2>
+  <p>Accepted formats:</p>
+  <ul class="import-help">
+    <li>A Recipe Box export file (<code>.json</code>)</li>
+    <li>A JSON array of recipes (<code>title</code>, <code>ingredients</code>, <code>steps</code>, …)</li>
+    <li>schema.org Recipe JSON-LD — copied from any recipe website's source</li>
+  </ul>
+  <p>You can also drag &amp; drop files anywhere on the page. Duplicates (same id or title) are skipped automatically.</p>
+  <label class="file-label">Choose file(s)
+    <input id="import-file" type="file" accept=".json,application/json" multiple>
+  </label>
+  <p>…or paste JSON here:</p>
+  <textarea id="import-text" rows="8" placeholder='[{"title": "Pancakes", "ingredients": ["1 cup flour", "1 egg"], "steps": ["Mix", "Fry"]}]'></textarea>
+  <div class="dialog-actions">
+    <button id="btn-import-paste" class="primary">Import pasted JSON</button>
+    <button id="btn-close-import">Close</button>
+  </div>
+</dialog>
+
+<!-- Cook mode -->
+<div id="cook-overlay" hidden>
+  <header>
+    <span id="cook-title"></span>
+    <button id="cook-close">✕</button>
+  </header>
+  <p id="cook-progress"></p>
+  <p id="cook-step"></p>
+  <footer>
+    <button id="cook-prev">← Back</button>
+    <button id="cook-next" class="primary">Next →</button>
+  </footer>
+</div>
+
+<div id="toast"></div>
+
+<script src="lib.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
