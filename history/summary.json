@@ -146,15 +146,15 @@
     "url": "https://benemanuel.geulah.org.il/feed.xml",
     "icon": "https://icons.duckduckgo.com/ip3/benemanuel.geulah.org.il.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 998,
-    "timeDay": 733,
-    "timeWeek": 868,
+    "uptimeDay": "95.27%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.96%",
+    "time": 999,
+    "timeDay": 812,
+    "timeWeek": 880,
     "timeMonth": 965,
     "timeYear": 1022,
     "dailyMinutesDown": {
@@ -162,7 +162,7 @@
       "2025-11-26": 31,
       "2026-01-22": 52,
       "2026-03-17": 63,
-      "2026-07-05": 0
+      "2026-07-05": 68
     }
   },
   {
