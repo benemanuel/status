@@ -201,17 +201,17 @@
     "url": "https://test.geulah.org.il/",
     "icon": "https://icons.duckduckgo.com/ip3/test.geulah.org.il.ico",
     "slug": "test",
-    "status": "down",
-    "uptime": "98.24%",
-    "uptimeDay": "94.70%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "98.24%",
-    "time": 1870,
-    "timeDay": 0,
-    "timeWeek": 1919,
-    "timeMonth": 1887,
-    "timeYear": 1870,
+    "status": "up",
+    "uptime": "98.20%",
+    "uptimeDay": "82.45%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "98.20%",
+    "time": 1869,
+    "timeDay": 1617,
+    "timeWeek": 1876,
+    "timeMonth": 1878,
+    "timeYear": 1869,
     "dailyMinutesDown": {
       "2026-01-10": 56,
       "2026-01-17": 49,
@@ -235,7 +235,7 @@
       "2026-05-01": 421,
       "2026-05-02": 681,
       "2026-05-03": 503,
-      "2026-11-07": 76
+      "2026-11-07": 253
     }
   },
   {
