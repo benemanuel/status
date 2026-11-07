@@ -70,11 +70,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/teamim.geulah.org.il.ico",
     "slug": "teamim",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.86%",
     "time": 893,
     "timeDay": 771,
     "timeWeek": 936,
@@ -201,9 +201,9 @@
     "url": "https://test.geulah.org.il/",
     "icon": "https://icons.duckduckgo.com/ip3/test.geulah.org.il.ico",
     "slug": "test",
-    "status": "up",
+    "status": "down",
     "uptime": "98.20%",
-    "uptimeDay": "82.45%",
+    "uptimeDay": "82.42%",
     "uptimeWeek": "97.49%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "98.20%",
@@ -235,7 +235,7 @@
       "2026-05-01": 421,
       "2026-05-02": 681,
       "2026-05-03": 503,
-      "2026-11-07": 253
+      "2026-11-07": 254
     }
   },
   {
